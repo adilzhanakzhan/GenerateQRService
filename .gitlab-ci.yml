@@ -1,0 +1,3 @@
+include:
+  - project: 'elma365/ci-cd-templates'
+    file: 'generic-dotnet-template.yaml'
